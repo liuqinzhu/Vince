@@ -1,6 +1,8 @@
 ﻿##提示
-- 新版界面实现详见:net.oschina.app.improve包。
-- OSChina Android [客户端](http://www.oschina.net/app/)
+
+- android客户端 学习源码。
+- 新版界面实现详见:net.oina.app.improve包。
+
 
 
 ##开源协议
